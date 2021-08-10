@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushirohit 
 - 👀 I’m interested in PowerShell automation, AI.
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence techniques
+- 🌱 Learning Machine Learning and Artificial Intelligence techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
